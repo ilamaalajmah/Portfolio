@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3e8e4632.css",
+    "main.js": "/Portfolio/static/js/main.f44c7031.js",
+    "static/media/demo.MP4": "/Portfolio/static/media/demo.f83c69b0acf7f48a31a5.MP4",
+    "static/media/Youtube.png": "/Portfolio/static/media/Youtube.9cc714a992141f9ebf20.png",
+    "static/media/Tuwaiq.png": "/Portfolio/static/media/Tuwaiq.e243252f0ca44cacabcd.png",
+    "static/media/NationalGame.png": "/Portfolio/static/media/NationalGame.0aa6cc5d4bd8833348e8.png",
+    "static/media/X.png": "/Portfolio/static/media/X.ca0f28a6ad09bb28415a.png",
+    "static/media/FitMe.png": "/Portfolio/static/media/FitMe.5b7546bdfdb8b0817550.png",
+    "static/media/ChattingProject.png": "/Portfolio/static/media/ChattingProject.1867c4f01b0b3bbc9dcf.png",
+    "static/media/qurra.png": "/Portfolio/static/media/qurra.3cdc25c67f4d5da4262c.png",
+    "static/media/express.png": "/Portfolio/static/media/express.723647d089128d5b39ec.png",
+    "static/media/PM.png": "/Portfolio/static/media/PM.8d9db4a0b9f53094fa45.png",
+    "static/media/png.webp": "/Portfolio/static/media/png.b9e6803154f95db53698.webp",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
+    "static/media/logo2.svg": "/Portfolio/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.3e8e4632.css.map": "/Portfolio/static/css/main.3e8e4632.css.map",
+    "main.f44c7031.js.map": "/Portfolio/static/js/main.f44c7031.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e8e4632.css",
+    "static/js/main.f44c7031.js"
+  ]
+}
